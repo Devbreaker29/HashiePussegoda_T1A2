@@ -1,0 +1,38 @@
+
+.red-background {
+     color: brown;
+     background-color: white;
+}
+
+body { 
+     background-color: white;
+}
+
+nav {
+     display: block;
+     width: 60px;
+     margin-left: auto;
+     margin: 45px;
+     padding: 55px;  
+}
+
+#portfolio-image {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+
+.heading-1 {
+     margin: auto;
+     width: 20%;
+     padding: 10px;
+}
+
+#Work-History-Image {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+
