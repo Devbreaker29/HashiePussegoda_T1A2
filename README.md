@@ -3,7 +3,7 @@
 ## Link to Portfolio Website: 
 <!-- add link later -->
 
-Here's a [link](https://www.google.com) to my portfolio website.
+Here's a [link](https://gracious-davinci-763d83.netlify.app) to my portfolio website.
 
 ## Link to GitHub Repo:
 
@@ -67,9 +67,22 @@ Here's a [link](https://github.com/Devbreaker29/HashiePussegoda_T1A2) to my GitH
 |Contact|Shows Contact Section|
 
 ### Sitemap
-![alt text](Img/portfoliowebsiteSitemap2.png)
+![alt text](Img/portfoliowebsitesitemap3.png)
 
 ### Screenshots
+
+![alt text](Img/picture-1.png)
+![alt text](Img/picture-2.png)
+![alt text](Img/picture-3.png)
+![alt text](Img/picture-4.png)
+![alt text](Img/picture-5.png)
+![alt text](Img/picture-6.png)
+![alt text](Img/picture-7.png)
+![alt text](Img/picture-8.png)
+![alt text](Img/picture-9.png)
+![alt text](Img/picture-10.png)
+![alt text](Img/picture-11.png)
+![alt text](Img/picture-12.png)
 
 ### Target audience
 
